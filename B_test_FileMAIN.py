@@ -1,3 +1,4 @@
+#has coms for lab computer not laptop
 import serial
 import time
 import serial.tools.list_ports
