@@ -1,3 +1,5 @@
+#Brandon Riley attempt to incorperat graph1
+
 import serial
 import time
 import serial.tools.list_ports
